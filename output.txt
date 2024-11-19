@@ -1,0 +1,82 @@
+Opening file: data_tn.tdv
+Opening file: data_wa.tdv
+Opening file: data_multi.tdv
+States found:
+TN WA CA CO PA FL LA 
+-- State: TN --
+Number of Records: 17097
+Average Humidity: 49.4%
+Average Temperature: 58.3F
+Max Temperature: 110.4F
+Max Temperature on: Mon Aug  3 11:00:00 2015
+Min Temperature: -11.1F
+Min Temperature on: Fri Feb 20 04:00:00 2015
+Lightning Strikes: 781
+Records with Snow Cover: 107
+Average Cloud Cover: 53.0%
+-- State: WA --
+Number of Records: 48357
+Average Humidity: 61.3%
+Average Temperature: 52.9F
+Max Temperature: 125.7F
+Max Temperature on: Sun Jun 28 17:00:00 2015
+Min Temperature: -18.7F
+Min Temperature on: Wed Dec 30 04:00:00 2015
+Lightning Strikes: 1190
+Records with Snow Cover: 1383
+Average Cloud Cover: 54.5%
+-- State: CA --
+Number of Records: 84601
+Average Humidity: 38.1%
+Average Temperature: 62.1F
+Max Temperature: 126.5F
+Max Temperature on: Sat Aug 15 11:00:00 2015
+Min Temperature: -25.9F
+Min Temperature on: Tue Dec 15 04:00:00 2015
+Lightning Strikes: 1616
+Records with Snow Cover: 599
+Average Cloud Cover: 34.7%
+-- State: CO --
+Number of Records: 67040
+Average Humidity: 60.8%
+Average Temperature: 49.6F
+Max Temperature: 116.1F
+Max Temperature on: Mon Jul 13 11:00:00 2015
+Min Temperature: -29.8F
+Min Temperature on: Sun Dec 27 04:00:00 2015
+Lightning Strikes: 4763
+Records with Snow Cover: 3082
+Average Cloud Cover: 40.1%
+-- State: PA --
+Number of Records: 19526
+Average Humidity: 57.4%
+Average Temperature: 48.8F
+Max Temperature: 106.4F
+Max Temperature on: Fri Jun 12 11:00:00 2015
+Min Temperature: -30.4F
+Min Temperature on: Fri Feb 20 04:00:00 2015
+Lightning Strikes: 667
+Records with Snow Cover: 575
+Average Cloud Cover: 59.2%
+-- State: FL --
+Number of Records: 35632
+Average Humidity: 38.2%
+Average Temperature: 76.1F
+Max Temperature: 122.1F
+Max Temperature on: Sun Jun 21 11:00:00 2015
+Min Temperature: 21.9F
+Min Temperature on: Thu Jan  8 04:00:00 2015
+Lightning Strikes: 1436
+Records with Snow Cover: 0
+Average Cloud Cover: 39.1%
+-- State: LA --
+Number of Records: 23350
+Average Humidity: 42.1%
+Average Temperature: 69.0F
+Max Temperature: 126.1F
+Max Temperature on: Thu Jul 30 11:00:00 2015
+Min Temperature: 19.6F
+Min Temperature on: Wed Jan  7 22:00:00 2015
+Lightning Strikes: 814
+Records with Snow Cover: 0
+Average Cloud Cover: 44.5%
