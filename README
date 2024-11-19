@@ -4,3 +4,6 @@ National Oceanic and Atmospheric Administration (NOAA).
 
 Input:    Tab-delimited file(s) to analyze.
 Output:   Summary information about the data.
+
+How to use:
+Run the command 'make' then 'make testOutput'
